@@ -1,0 +1,30 @@
+# Cell Balancing Battery Management System (BMS)
+
+## Project Description
+This project demonstrates a basic Battery Management System (BMS) using Arduino. The system monitors the voltage of multiple battery cells and identifies cells with higher voltage that require balancing. Cell balancing helps improve battery performance, safety, and lifespan.
+
+## Objectives
+- Monitor battery cell voltages.
+- Detect voltage differences between cells.
+- Indicate when balancing is required.
+- Improve battery life and safety.
+
+## Components Used
+- Arduino Uno
+- Lithium-ion Battery Cells
+- LEDs
+- 220Ω Resistors
+- Breadboard
+- Jumper Wires
+
+## Applications
+- Electric Vehicles (EVs)
+- Solar Energy Storage Systems
+- Battery Packs
+- UPS Systems
+
+## Future Improvements
+- Active Cell Balancing
+- LCD Display
+- Bluetooth Monitoring
+- Mobile App Integration
